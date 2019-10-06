@@ -6,5 +6,7 @@
     <array name="genres">
         <item>Rock</item>
         <item>Sufi</item>
+        <item>Rap</item>
+        <item>Pop</item>
     </array>
 </resources>
